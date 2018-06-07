@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "H:\\Android_studio\\AS_Project\\wxstc_demo\\无锡科技职业学院嵌入式比赛demo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b37f0c9aef21514b3f42515e6be24e72588dc778\\output\\res\\layout-v11\\notification_media_action.xml"
+    },
+    {
+        "merged": "H:\\Android_studio\\AS_Project\\wxstc_demo\\无锡科技职业学院嵌入式比赛demo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b37f0c9aef21514b3f42515e6be24e72588dc778\\output\\res\\layout-v11\\notification_template_big_media_narrow_custom.xml"
+    },
+    {
+        "merged": "H:\\Android_studio\\AS_Project\\wxstc_demo\\无锡科技职业学院嵌入式比赛demo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b37f0c9aef21514b3f42515e6be24e72588dc778\\output\\res\\layout-v11\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "H:\\Android_studio\\AS_Project\\wxstc_demo\\无锡科技职业学院嵌入式比赛demo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media_custom.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b37f0c9aef21514b3f42515e6be24e72588dc778\\output\\res\\layout-v11\\notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "H:\\Android_studio\\AS_Project\\wxstc_demo\\无锡科技职业学院嵌入式比赛demo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_template_big_media.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b37f0c9aef21514b3f42515e6be24e72588dc778\\output\\res\\layout-v11\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "H:\\Android_studio\\AS_Project\\wxstc_demo\\无锡科技职业学院嵌入式比赛demo\\build\\intermediates\\res\\merged\\debug\\layout-v11\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\Administrator\\.android\\build-cache\\b37f0c9aef21514b3f42515e6be24e72588dc778\\output\\res\\layout-v11\\notification_media_cancel_action.xml"
+    }
+]

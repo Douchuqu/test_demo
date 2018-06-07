@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:3:5-31
+		INJECTED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml
+	android:versionName
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:5:5-30
+		INJECTED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml
+	android:versionCode
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:4:5-28
+		INJECTED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:2:11-69
+uses-sdk
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Administrator\.android\build-cache\b37f0c9aef21514b3f42515e6be24e72588dc778\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Administrator\.android\build-cache\f15848e8a93decaa09e2d97c5e61c1746727ad68\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Administrator\.android\build-cache\4ebca749845264465a5b6f1a252db48798ce1e70\output\AndroidManifest.xml:21:5-43
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Administrator\.android\build-cache\dcf84ad9bb121cf4a367bc9b4d0aa3134bdf1fba\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Administrator\.android\build-cache\766439c802981793aeb8d1f177bff5797c7e1a40\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Administrator\.android\build-cache\f3de7ad6d92c89d1cd62b95b18510245fe1fa3db\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Administrator\.android\build-cache\f6a247f1a2da35cdb179bd4c4ddf5c002ff07391\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Administrator\.android\build-cache\6a5943b9cbee75fda8ac3ad0b0068639eef8a28d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Administrator\.android\build-cache\e53a9d0365938358aa92bdccb7a8305a666d0e9f\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\cbd9f8f3b3d84026843e44e5f642600813dd9db7\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Administrator\.android\build-cache\b37f0c9aef21514b3f42515e6be24e72588dc778\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:9:9-38
+		INJECTED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:8:9-35
+		INJECTED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml
+		INJECTED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:11:5-76
+	android:name
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:11:22-73
+uses-permission#android.permission.INTERNET
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:12:5-67
+	android:name
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:12:22-64
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:13:5-81
+	android:name
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:13:22-78
+uses-permission#android.permission.MOUNT_UNMOUNT_FILESYSTEMS
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:14:5-84
+	android:name
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:14:22-81
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:15:5-75
+	android:name
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:15:22-72
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:16:5-80
+	android:name
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:16:22-77
+application
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:18:5-37:19
+MERGED from [com.android.support:appcompat-v7:25.1.0] C:\Users\Administrator\.android\build-cache\b37f0c9aef21514b3f42515e6be24e72588dc778\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.1.0] C:\Users\Administrator\.android\build-cache\f15848e8a93decaa09e2d97c5e61c1746727ad68\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-vector-drawable:25.1.0] C:\Users\Administrator\.android\build-cache\4ebca749845264465a5b6f1a252db48798ce1e70\output\AndroidManifest.xml:23:5-20
+MERGED from [com.android.support:support-v4:25.1.0] C:\Users\Administrator\.android\build-cache\dcf84ad9bb121cf4a367bc9b4d0aa3134bdf1fba\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-fragment:25.1.0] C:\Users\Administrator\.android\build-cache\766439c802981793aeb8d1f177bff5797c7e1a40\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-media-compat:25.1.0] C:\Users\Administrator\.android\build-cache\f3de7ad6d92c89d1cd62b95b18510245fe1fa3db\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-ui:25.1.0] C:\Users\Administrator\.android\build-cache\f6a247f1a2da35cdb179bd4c4ddf5c002ff07391\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-core-utils:25.1.0] C:\Users\Administrator\.android\build-cache\6a5943b9cbee75fda8ac3ad0b0068639eef8a28d\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:support-compat:25.1.0] C:\Users\Administrator\.android\build-cache\e53a9d0365938358aa92bdccb7a8305a666d0e9f\output\AndroidManifest.xml:25:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Administrator\.android\build-cache\cbd9f8f3b3d84026843e44e5f642600813dd9db7\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:21:9-41
+	android:allowBackup
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:19:9-35
+	android:icon
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:20:9-45
+	android:theme
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:22:9-40
+activity#com.hc.wxstcdemo.StartActivity
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:23:9-31:20
+	android:label
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:25:13-45
+	android:name
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:24:13-42
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:26:13-30:29
+action#android.intent.action.MAIN
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:27:17-69
+	android:name
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:27:25-66
+category#android.intent.category.LAUNCHER
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:29:17-77
+	android:name
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:29:27-74
+service#com.hc.wxstcdemo.service.SearchService
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:33:9-58
+	android:name
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:33:18-55
+activity#com.hc.wxstcdemo.BebugActivity
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:35:9-51
+	android:name
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:35:19-48
+activity#com.hc.wxstcdemo.MainActivity
+ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:36:9-59
+	android:name
+		ADDED from H:\Android_studio\AS_Project\wxstc_demo\无锡科技职业学院嵌入式比赛demo\src\main\AndroidManifest.xml:36:19-47
